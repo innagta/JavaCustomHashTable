@@ -1,2 +1,0 @@
-This is a test. This text is written in the newFeature branch. It should not be seen
-on the master branch. Let's see. 
